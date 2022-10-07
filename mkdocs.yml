@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: FluigIO
+
+theme:
+  name: material
+
